@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.NokiaIPSO'
 VERSION = '1.0'
 AUTHOR = 'Mike Albon'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.NokiaIPSO']
 INSTALL_REQUIRES = []
